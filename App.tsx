@@ -1,5 +1,5 @@
 import { AuthProvider, useAuth } from "./AuthContext";
-import Dashboard from "./pages/Dashboard";
+import Dashboard from "./Dashboard";
 import LandingPage from "./pages/LandingPage";
 
 function App() {
